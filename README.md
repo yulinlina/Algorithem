@@ -1,4 +1,4 @@
-# Algorithem
+# Introduction
 This is the note about the algorithm course.  
 ## Including
 The problem set is a guide to dive into more sophisticated algorithm study
