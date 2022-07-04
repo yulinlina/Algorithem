@@ -9,5 +9,5 @@ The problem set is a guide to dive into more sophisticated algorithm study
 5. Backtrack
 
 ## Dependence
-all the problem descriptioon can be found in the http://acm.scu.edu.cn/teach/main.html
+all the problem description can be found in the http://acm.scu.edu.cn/teach/main.html
 
